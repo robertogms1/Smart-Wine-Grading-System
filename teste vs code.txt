@@ -1,0 +1,1 @@
+Aquivo teste fazendo um commit com Visual Studio Code(com isto vou enviar meus codigos e arquivos de modo automatico).
