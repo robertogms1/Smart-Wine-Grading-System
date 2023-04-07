@@ -12,7 +12,7 @@ class InterFace(App):
 #Tela do App
         box= FloatLayout()
 # Adiciona a imagem como widget de fundo
-        Fundo = Image(source='Fundo.jpg', allow_stretch=True, keep_ratio=False)
+        Fundo = Image(source='Fundo1.jpg', allow_stretch=True, keep_ratio=False)
         box.add_widget(Fundo)
 #informação titulo 
         label_title=Label(text='Insira as informações químicas do rótulo do vinho:', font_size=20, halign='center', pos_hint={'center_x': 0.5, 'top': 1.4}, color=(1, 0, 0, 1))
